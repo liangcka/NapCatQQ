@@ -1,4 +1,4 @@
-<img src="logo.png" width = "305" height = "411" alt="NapCat" align=right />
+<img src="./.github/assets/newnewlogo.png" width="305" height="411" alt="NapCat" align="right" />
 <div align="center">
 
 # NapCat
